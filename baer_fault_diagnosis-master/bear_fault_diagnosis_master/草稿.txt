@@ -1,0 +1,64 @@
+losses = []
+acces = []
+eval_losses = []
+eval_acces = []
+starttime = time.time()
+for epoch in range(400):
+    train_loss = 0
+    train_acc = 0
+    model.train()
+    for img, label in train_loader:
+        img = img.float()
+        img = img.to(device)
+        label = label.to(device)
+        label = label.long()
+        # 前向传播
+        out = model(img)
+        out = torch.squeeze(out).float()  # 去掉out中维数是1的维度
+        # 反向传播和优化
+        loss = criterion(out, label)
+        opt.zero_grad()
+        loss.backward()
+        opt.step()
+
+        train_loss += loss.item()
+        # 计算分类的准确率
+        _, pred = out.max(1)
+        num_correct = (pred == label).sum().item()
+        acc = num_correct / img.shape[0]
+        train_acc += acc
+    losses.append(train_loss / len(train_loader))
+    acces.append(train_acc / len(train_loader))
+
+    # 测试集
+    eval_loss = 0
+    eval_acc = 0  # 将模型改为预测模式
+    model.eval()
+    # model.apply(reset_bn)
+    for img, label in test_loader:
+        img = img.type(torch.FloatTensor)
+        img = img.to(device)
+        label = label.to(device)
+        label = label.long()
+        # img = img.view(img.size(0), -1)
+        out = model(img)
+        out = torch.squeeze(out).float()
+        loss = criterion(out, label)
+        # 记录误差
+        eval_loss += loss.item()
+        # 记录准确率
+        _, pred = out.max(1)
+        num_correct = (pred == label).sum().item()
+        # print(pred, '\n\n', label)
+        acc = num_correct / img.shape[0]
+        eval_acc += acc
+    eval_losses.append(eval_loss / len(test_loader))
+    eval_acces.append(eval_acc / len(test_loader))
+    # 打印结果
+    print('epoch: {}, Train Loss: {:.4f}, Train Acc: {:.4f}, Test Loss: {:.4f}, Test Acc: {:.4f}'
+          .format(epoch, train_loss / len(train_loader), train_acc / len(train_loader),
+                  eval_loss / len(test_loader), eval_acc / len(test_loader)))
+# 计算训练时间
+end_time = time.time()
+time = end_time - begain_time
+print('time:', time)

@@ -1,0 +1,9 @@
+# @package _group_
+
+# train
+train:
+  batch_size: 16
+  num_epochs: 50
+  sequence_length: 40
+  checkpoint_interval: 5
+  num_workers: 4
