@@ -1,0 +1,497 @@
+D:\python\anaconda\envs\py310\python.exe D:/0_大型机械设备故障检测/参考代码/代码/0/ResNet_BearingDiagnosis/main.py
+ResNet(
+  (conv1): Conv1d(1, 128, kernel_size=(7,), stride=(2,), padding=(3,), bias=False)
+  (bn1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU(inplace=True)
+  (maxpool): MaxPool1d(kernel_size=3, stride=2, padding=1, dilation=1, ceil_mode=False)
+  (layer1): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (1): BasicBlock(
+      (conv1): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer2): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv1d(128, 128, kernel_size=(3,), stride=(2,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (downsample): Sequential(
+        (0): Conv1d(128, 128, kernel_size=(1,), stride=(2,), bias=False)
+        (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer3): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv1d(128, 256, kernel_size=(3,), stride=(2,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (downsample): Sequential(
+        (0): Conv1d(128, 256, kernel_size=(1,), stride=(2,), bias=False)
+        (1): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer4): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv1d(256, 512, kernel_size=(3,), stride=(2,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(512, 512, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (downsample): Sequential(
+        (0): Conv1d(256, 512, kernel_size=(1,), stride=(2,), bias=False)
+        (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv1d(512, 512, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv1d(512, 512, kernel_size=(3,), stride=(1,), padding=(1,), bias=False)
+      (bn2): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (pool): AdaptiveAvgPool1d(output_size=1)
+  (ACTClassifier): Sequential(
+    (0): Conv1d(512, 512, kernel_size=(3,), stride=(1,), bias=False)
+    (1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): AdaptiveAvgPool1d(output_size=1)
+  )
+  (act_fc): Linear(in_features=512, out_features=5, bias=True)
+)
+[9500, 1000]
+using cpu device.
+D:\python\anaconda\envs\py310\lib\site-packages\torch\nn\_reduction.py:42: UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead.
+  warnings.warn(warning.format(ret))
+D:\python\anaconda\envs\py310\lib\site-packages\torch\optim\lr_scheduler.py:131: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn("Detected call of `lr_scheduler.step()` before `optimizer.step()`. "
+Training accuracy:27.54736842105263Time:0
+Training Loss:1.7117374869898745Time:0
+Test accuracy:26.7Time:0
+Test Loss:0.18039508056640624Time:0
+Training accuracy:44.36842105263158Time:1
+Training Loss:1.3226090890984785Time:1
+Test accuracy:41.8Time:1
+Test Loss:0.14749198913574219Time:1
+Training accuracy:49.17894736842105Time:2
+Training Loss:1.464458755894711Time:2
+Test accuracy:43.7Time:2
+Test Loss:0.1647208709716797Time:2
+Training accuracy:56.705263157894734Time:3
+Training Loss:2.085809126602976Time:3
+Test accuracy:47.7Time:3
+Test Loss:0.21933541870117187Time:3
+Training accuracy:78.01052631578948Time:4
+Training Loss:0.5763271962216026Time:4
+Test accuracy:59.5Time:4
+Test Loss:0.09722688293457031Time:4
+Training accuracy:79.49473684210527Time:5
+Training Loss:0.5729527351981715Time:5
+Test accuracy:65.3Time:5
+Test Loss:0.10408415985107422Time:5
+Training accuracy:89.61052631578947Time:6
+Training Loss:0.29065313650432384Time:6
+Test accuracy:72.8Time:6
+Test Loss:0.09514335632324218Time:6
+Training accuracy:89.11578947368422Time:7
+Training Loss:0.2851843714463083Time:7
+Test accuracy:68.8Time:7
+Test Loss:0.10588784790039063Time:7
+Training accuracy:86.92631578947369Time:8
+Training Loss:0.4204361379523026Time:8
+Test accuracy:69.9Time:8
+Test Loss:0.09476042175292969Time:8
+Training accuracy:93.32631578947368Time:9
+Training Loss:0.18258186681647048Time:9
+Test accuracy:74.3Time:9
+Test Loss:0.059367816925048826Time:9
+Training accuracy:97.09473684210526Time:10
+Training Loss:0.09430703863344694Time:10
+Test accuracy:80.6Time:10
+Test Loss:0.05950999450683594Time:10
+Training accuracy:90.28421052631579Time:11
+Training Loss:0.29581425174913906Time:11
+Test accuracy:72.3Time:11
+Test Loss:0.09083491516113282Time:11
+Training accuracy:93.32631578947368Time:12
+Training Loss:0.17827482444361636Time:12
+Test accuracy:71.2Time:12
+Test Loss:0.09078440856933594Time:12
+Training accuracy:96.71578947368421Time:13
+Training Loss:0.09059410417707343Time:13
+Test accuracy:82.6Time:13
+Test Loss:0.05828417587280273Time:13
+Training accuracy:88.58947368421053Time:14
+Training Loss:0.3589111137390137Time:14
+Test accuracy:67.7Time:14
+Test Loss:0.09966708374023438Time:14
+Training accuracy:91.65263157894736Time:15
+Training Loss:0.22619938348468982Time:15
+Test accuracy:69.0Time:15
+Test Loss:0.10975597381591796Time:15
+Training accuracy:87.82105263157895Time:16
+Training Loss:0.3282681681984349Time:16
+Test accuracy:67.0Time:16
+Test Loss:0.1295186309814453Time:16
+Training accuracy:91.49473684210527Time:17
+Training Loss:0.2144494772961265Time:17
+Test accuracy:74.1Time:17
+Test Loss:0.10488887786865235Time:17
+Training accuracy:98.43157894736842Time:18
+Training Loss:0.04893202095910122Time:18
+Test accuracy:82.1Time:18
+Test Loss:0.06277607727050781Time:18
+Training accuracy:99.3157894736842Time:19
+Training Loss:0.015370322191401532Time:19
+Test accuracy:92.0Time:19
+Test Loss:0.023433515548706055Time:19
+Training accuracy:99.34736842105264Time:20
+Training Loss:0.013829361085828981Time:20
+Test accuracy:93.2Time:20
+Test Loss:0.01151288890838623Time:20
+Training accuracy:99.42105263157895Time:21
+Training Loss:0.012832810870910946Time:21
+Test accuracy:93.0Time:21
+Test Loss:0.01809164810180664Time:21
+Training accuracy:99.34736842105264Time:22
+Training Loss:0.014689057358001408Time:22
+Test accuracy:92.2Time:22
+Test Loss:0.024907625198364258Time:22
+Training accuracy:99.5578947368421Time:23
+Training Loss:0.011261983821462644Time:23
+Test accuracy:94.1Time:23
+Test Loss:0.015610944747924805Time:23
+Training accuracy:99.67368421052632Time:24
+Training Loss:0.009908129551693012Time:24
+Test accuracy:93.7Time:24
+Test Loss:0.01469000244140625Time:24
+Training accuracy:99.46315789473684Time:25
+Training Loss:0.011043048989713975Time:25
+Test accuracy:93.1Time:25
+Test Loss:0.021761659622192384Time:25
+Training accuracy:99.47368421052632Time:26
+Training Loss:0.010189241335188087Time:26
+Test accuracy:94.3Time:26
+Test Loss:0.017099422454833986Time:26
+Training accuracy:99.6Time:27
+Training Loss:0.00856707130960728Time:27
+Test accuracy:93.6Time:27
+Test Loss:0.01576560688018799Time:27
+Training accuracy:99.54736842105264Time:28
+Training Loss:0.015418968195977965Time:28
+Test accuracy:90.1Time:28
+Test Loss:0.03261601257324219Time:28
+Training accuracy:99.52631578947368Time:29
+Training Loss:0.010910377462835689Time:29
+Test accuracy:92.1Time:29
+Test Loss:0.013574421882629395Time:29
+Training accuracy:99.29473684210527Time:30
+Training Loss:0.010563300795068866Time:30
+Test accuracy:92.3Time:30
+Test Loss:0.01843153190612793Time:30
+Training accuracy:99.6842105263158Time:31
+Training Loss:0.008733066419237538Time:31
+Test accuracy:94.1Time:31
+Test Loss:0.01681305122375488Time:31
+Training accuracy:99.66315789473684Time:32
+Training Loss:0.008342465083457921Time:32
+Test accuracy:93.8Time:32
+Test Loss:0.012194314002990723Time:32
+Training accuracy:99.6842105263158Time:33
+Training Loss:0.009980329157490479Time:33
+Test accuracy:92.8Time:33
+Test Loss:0.02130510711669922Time:33
+Training accuracy:99.7578947368421Time:34
+Training Loss:0.008109967512519736Time:34
+Test accuracy:93.0Time:34
+Test Loss:0.022076303482055665Time:34
+Training accuracy:99.6842105263158Time:35
+Training Loss:0.008212476069401753Time:35
+Test accuracy:94.1Time:35
+Test Loss:0.015437003135681152Time:35
+Training accuracy:99.62105263157895Time:36
+Training Loss:0.011100621861846823Time:36
+Test accuracy:92.1Time:36
+Test Loss:0.02119536590576172Time:36
+Training accuracy:96.42105263157895Time:37
+Training Loss:0.10034916771085639Time:37
+Test accuracy:75.9Time:37
+Test Loss:0.09855712890625Time:37
+Training accuracy:99.6842105263158Time:38
+Training Loss:0.009894812902337626Time:38
+Test accuracy:91.8Time:38
+Test Loss:0.020024515151977538Time:38
+Training accuracy:99.81052631578947Time:39
+Training Loss:0.005862536468788197Time:39
+Test accuracy:94.7Time:39
+Test Loss:0.02019490623474121Time:39
+Training accuracy:99.82105263157895Time:40
+Training Loss:0.0056361094023052016Time:40
+Test accuracy:95.0Time:40
+Test Loss:0.009228631019592285Time:40
+Training accuracy:99.8Time:41
+Training Loss:0.005755880273486439Time:41
+Test accuracy:95.3Time:41
+Test Loss:0.017014780044555665Time:41
+Training accuracy:99.86315789473684Time:42
+Training Loss:0.004691671635171301Time:42
+Test accuracy:95.6Time:42
+Test Loss:0.013757802963256837Time:42
+Training accuracy:99.83157894736843Time:43
+Training Loss:0.00484739534649998Time:43
+Test accuracy:95.9Time:43
+Test Loss:0.00999585247039795Time:43
+Training accuracy:99.87368421052632Time:44
+Training Loss:0.004336564239016489Time:44
+Test accuracy:96.0Time:44
+Test Loss:0.013665618896484375Time:44
+Training accuracy:99.91578947368421Time:45
+Training Loss:0.003818930663560566Time:45
+Test accuracy:96.1Time:45
+Test Loss:0.006937520503997803Time:45
+Training accuracy:99.74736842105263Time:46
+Training Loss:0.005536877779878283Time:46
+Test accuracy:94.9Time:46
+Test Loss:0.017294803619384767Time:46
+Training accuracy:99.77894736842106Time:47
+Training Loss:0.004429239401299702Time:47
+Test accuracy:95.6Time:47
+Test Loss:0.015336223602294922Time:47
+Training accuracy:99.91578947368421Time:48
+Training Loss:0.004471955977576343Time:48
+Test accuracy:95.3Time:48
+Test Loss:0.015184578895568847Time:48
+Training accuracy:99.73684210526316Time:49
+Training Loss:0.005588879739473525Time:49
+Test accuracy:95.4Time:49
+Test Loss:0.015312191009521484Time:49
+Training accuracy:99.76842105263158Time:50
+Training Loss:0.004613773590345916Time:50
+Test accuracy:95.8Time:50
+Test Loss:0.013604578018188476Time:50
+Training accuracy:99.82105263157895Time:51
+Training Loss:0.003746360064778281Time:51
+Test accuracy:96.0Time:51
+Test Loss:0.029181480407714844Time:51
+Training accuracy:99.81052631578947Time:52
+Training Loss:0.004191725329643017Time:52
+Test accuracy:96.2Time:52
+Test Loss:0.02534596061706543Time:52
+Training accuracy:99.94736842105263Time:53
+Training Loss:0.002473908929056243Time:53
+Test accuracy:96.3Time:53
+Test Loss:0.019392452239990234Time:53
+Training accuracy:99.9578947368421Time:54
+Training Loss:0.001787159940423934Time:54
+Test accuracy:95.2Time:54
+Test Loss:0.013244242668151855Time:54
+Training accuracy:99.84210526315789Time:55
+Training Loss:0.0036280630820087695Time:55
+Test accuracy:94.7Time:55
+Test Loss:0.011647061347961426Time:55
+Training accuracy:99.83157894736843Time:56
+Training Loss:0.0029987294007288784Time:56
+Test accuracy:95.5Time:56
+Test Loss:0.009913080215454102Time:56
+Training accuracy:99.86315789473684Time:57
+Training Loss:0.0028938350959828024Time:57
+Test accuracy:95.8Time:57
+Test Loss:0.01235292911529541Time:57
+Training accuracy:99.93684210526315Time:58
+Training Loss:0.001936871163743107Time:58
+Test accuracy:95.6Time:58
+Test Loss:0.013211289405822753Time:58
+Training accuracy:99.9578947368421Time:59
+Training Loss:0.0015460703547455763Time:59
+Test accuracy:95.5Time:59
+Test Loss:0.015775217056274413Time:59
+Training accuracy:100.0Time:60
+Training Loss:0.0007515247621034321Time:60
+Test accuracy:95.5Time:60
+Test Loss:0.01876091766357422Time:60
+Training accuracy:100.0Time:61
+Training Loss:0.0010069149285554886Time:61
+Test accuracy:95.3Time:61
+Test Loss:0.01606773567199707Time:61
+Training accuracy:99.97894736842105Time:62
+Training Loss:0.001017065397316688Time:62
+Test accuracy:95.2Time:62
+Test Loss:0.015873383522033692Time:62
+Training accuracy:100.0Time:63
+Training Loss:0.0006484630420607955Time:63
+Test accuracy:96.1Time:63
+Test Loss:0.01891690254211426Time:63
+Training accuracy:99.98947368421052Time:64
+Training Loss:0.001179239698146519Time:64
+Test accuracy:96.0Time:64
+Test Loss:0.011273601531982421Time:64
+Training accuracy:99.96842105263158Time:65
+Training Loss:0.001049871977810797Time:65
+Test accuracy:95.9Time:65
+Test Loss:0.011682394027709962Time:65
+Training accuracy:100.0Time:66
+Training Loss:0.0003497052438263046Time:66
+Test accuracy:95.7Time:66
+Test Loss:0.011415719032287597Time:66
+Training accuracy:99.98947368421052Time:67
+Training Loss:0.0005706137888819763Time:67
+Test accuracy:95.8Time:67
+Test Loss:0.006424323558807373Time:67
+Training accuracy:100.0Time:68
+Training Loss:0.0003224375612886721Time:68
+Test accuracy:95.9Time:68
+Test Loss:0.0052665815353393555Time:68
+Training accuracy:99.97894736842105Time:69
+Training Loss:0.001153443815554247Time:69
+Test accuracy:96.2Time:69
+Test Loss:0.01177799129486084Time:69
+Training accuracy:100.0Time:70
+Training Loss:0.0002775263534858823Time:70
+Test accuracy:95.7Time:70
+Test Loss:0.011801813125610352Time:70
+Training accuracy:99.98947368421052Time:71
+Training Loss:0.0012078300102760916Time:71
+Test accuracy:95.5Time:71
+Test Loss:0.021416210174560548Time:71
+Training accuracy:100.0Time:72
+Training Loss:0.0003580074142664671Time:72
+Test accuracy:95.5Time:72
+Test Loss:0.011670380592346192Time:72
+Training accuracy:100.0Time:73
+Training Loss:0.00022708760645534647Time:73
+Test accuracy:95.3Time:73
+Test Loss:0.016173147201538087Time:73
+Training accuracy:100.0Time:74
+Training Loss:0.00046225134763670594Time:74
+Test accuracy:94.9Time:74
+Test Loss:0.013222664833068847Time:74
+Training accuracy:99.83157894736843Time:75
+Training Loss:0.0028569686528981514Time:75
+Test accuracy:95.4Time:75
+Test Loss:0.009983668327331543Time:75
+Training accuracy:100.0Time:76
+Training Loss:0.0007953876651529419Time:76
+Test accuracy:95.2Time:76
+Test Loss:0.018884342193603517Time:76
+Training accuracy:100.0Time:77
+Training Loss:0.00043281009861905324Time:77
+Test accuracy:95.8Time:77
+Test Loss:0.010571405410766602Time:77
+Training accuracy:99.74736842105263Time:78
+Training Loss:0.009908602767869045Time:78
+Test accuracy:89.5Time:78
+Test Loss:0.05140972137451172Time:78
+Training accuracy:100.0Time:79
+Training Loss:0.0006204831591366153Time:79
+Test accuracy:95.5Time:79
+Test Loss:0.012614599227905273Time:79
+Training accuracy:100.0Time:80
+Training Loss:0.0003317595460991326Time:80
+Test accuracy:95.3Time:80
+Test Loss:0.020360342025756838Time:80
+Training accuracy:100.0Time:81
+Training Loss:0.00024307555837654754Time:81
+Test accuracy:95.7Time:81
+Test Loss:0.018670209884643553Time:81
+Training accuracy:100.0Time:82
+Training Loss:0.00018842785869185863Time:82
+Test accuracy:95.9Time:82
+Test Loss:0.015639066696166992Time:82
+Training accuracy:100.0Time:83
+Training Loss:0.00029069921139039494Time:83
+Test accuracy:96.3Time:83
+Test Loss:0.009585753440856933Time:83
+Training accuracy:100.0Time:84
+Training Loss:0.00015863225584555613Time:84
+Test accuracy:96.4Time:84
+Test Loss:0.00917912769317627Time:84
+Training accuracy:100.0Time:85
+Training Loss:0.0002978344118516696Time:85
+Test accuracy:95.9Time:85
+Test Loss:0.01480504035949707Time:85
+Training accuracy:100.0Time:86
+Training Loss:0.00015129743624282512Time:86
+Test accuracy:96.8Time:86
+Test Loss:0.007396326065063476Time:86
+Training accuracy:100.0Time:87
+Training Loss:0.00012600084465291155Time:87
+Test accuracy:96.7Time:87
+Test Loss:0.009024699211120606Time:87
+Training accuracy:100.0Time:88
+Training Loss:0.00011645279378679238Time:88
+Test accuracy:96.5Time:88
+Test Loss:0.008314441680908204Time:88
+Training accuracy:100.0Time:89
+Training Loss:0.00014376230770722032Time:89
+Test accuracy:96.8Time:89
+Test Loss:0.01766086959838867Time:89
+Training accuracy:100.0Time:90
+Training Loss:0.00011482370117875306Time:90
+Test accuracy:96.5Time:90
+Test Loss:0.013701739311218262Time:90
+Training accuracy:100.0Time:91
+Training Loss:9.738909255860275e-05Time:91
+Test accuracy:96.8Time:91
+Test Loss:0.013995208740234376Time:91
+Training accuracy:100.0Time:92
+Training Loss:0.00010815698240491512Time:92
+Test accuracy:97.0Time:92
+Test Loss:0.009173023223876952Time:92
+Training accuracy:100.0Time:93
+Training Loss:9.873395954797927e-05Time:93
+Test accuracy:96.9Time:93
+Test Loss:0.012734206199645996Time:93
+Training accuracy:100.0Time:94
+Training Loss:9.192772079749327e-05Time:94
+Test accuracy:96.3Time:94
+Test Loss:0.0216901798248291Time:94
+Training accuracy:100.0Time:95
+Training Loss:8.478488253527566e-05Time:95
+Test accuracy:96.8Time:95
+Test Loss:0.015717229843139648Time:95
+Training accuracy:100.0Time:96
+Training Loss:9.59195611557286e-05Time:96
+Test accuracy:96.7Time:96
+Test Loss:0.012045692443847657Time:96
+Training accuracy:100.0Time:97
+Training Loss:8.859613819636012e-05Time:97
+Test accuracy:96.9Time:97
+Test Loss:0.010253588676452636Time:97
+Training accuracy:100.0Time:98
+Training Loss:0.00019064657745490734Time:98
+Test accuracy:96.6Time:98
+Test Loss:0.006420032024383545Time:98
+Training accuracy:100.0Time:99
+Training Loss:0.00028660486935098707Time:99
+Test accuracy:96.2Time:99
+Test Loss:0.006453822135925293Time:99
