@@ -1,0 +1,9 @@
+..\obj\std.o: ..\HARDWARE\MyFun2\std.c
+..\obj\std.o: ..\HARDWARE\MyFun2\std.h
+..\obj\std.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\std.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\std.o: ..\HARDWARE\MyFun2\rtwtypes.h
+..\obj\std.o: ..\HARDWARE\MyFun2\MyFun2_types.h
+..\obj\std.o: ..\HARDWARE\MyFun2\MyFun2.h
+..\obj\std.o: ..\HARDWARE\MyFun2\rt_nonfinite.h
+..\obj\std.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\math.h

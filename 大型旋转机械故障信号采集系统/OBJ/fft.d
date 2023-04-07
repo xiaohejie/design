@@ -1,0 +1,10 @@
+..\obj\fft.o: ..\HARDWARE\MyFun4\fft.c
+..\obj\fft.o: ..\HARDWARE\MyFun4\fft.h
+..\obj\fft.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\fft.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\fft.o: ..\HARDWARE\MyFun4\rtwtypes.h
+..\obj\fft.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\fft.o: ..\HARDWARE\MyFun4\MyFun4_types.h
+..\obj\fft.o: ..\HARDWARE\MyFun4\MyFun4.h
+..\obj\fft.o: ..\HARDWARE\MyFun4\MyFun4_data.h
+..\obj\fft.o: ..\HARDWARE\MyFun4\rt_nonfinite.h
