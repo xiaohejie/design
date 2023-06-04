@@ -1,0 +1,13 @@
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\MyFun2.c
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\MyFun2.h
+..\obj\myfun2.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\myfun2.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\rtwtypes.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\MyFun2_types.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\MyFun2_data.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\MyFun2_initialize.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\kurtosis.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\rt_nonfinite.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\skewness.h
+..\obj\myfun2.o: ..\HARDWARE\MyFun2\std.h
+..\obj\myfun2.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\math.h

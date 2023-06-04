@@ -56,7 +56,7 @@ void sqlite_Init()
     //选择数据源
     QSqlDatabase db = QSqlDatabase::addDatabase("QMYSQL");
     //设置MySql服务器名称
-    db.setHostName("127.0.0.1");
+    db.setHostName("localhost");
     //设置端口号
     db.setPort(3306);
     //设置数据库名
@@ -71,6 +71,18 @@ void sqlite_Init()
     else{
         qDebug() << "数据库打开失败";
     }
+    /*
+    //create excle建表
+    QString createsql=QString("create table if not exists user(id integer primary key autoincrement,"
+                        "username ntext unique not NULL,"
+                        "password ntext not NULL)");
+    QSqlQuery query;
+    if(!query.exec(createsql)){
+        qDebug()<<"table create error";
+    }
+    else{
+        qDebug()<<"table create success";
+    }*/
 }
 
 //关闭

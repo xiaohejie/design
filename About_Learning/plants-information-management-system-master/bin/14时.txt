@@ -1,2 +1,0 @@
-Warning: *File:kernel\qobject.cpp  *Line:2457  *Function:void __cdecl err_method_notfound(const class QObject *,const char *,const char *)  *Message:QObject::connect: No such signal QObject::dataChanged(QModelIndex,QModelIndex,QVector<int>) in itemviews\qdatawidgetmapper.cpp:363  
-Warning: *File:kernel\qobject.cpp  *Line:2457  *Function:void __cdecl err_method_notfound(const class QObject *,const char *,const char *)  *Message:QObject::connect: No such signal QObject::dataChanged(QModelIndex,QModelIndex,QVector<int>) in itemviews\qdatawidgetmapper.cpp:363  

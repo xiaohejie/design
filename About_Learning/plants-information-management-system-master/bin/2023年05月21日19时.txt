@@ -1,2 +1,0 @@
-Debug:2023-05-21 19:53:31  *File:..\plants-information-management-system\uidemo18.cpp  *Line:278  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
-  

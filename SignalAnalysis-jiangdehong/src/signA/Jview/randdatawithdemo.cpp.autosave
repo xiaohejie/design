@@ -1,6 +1,0 @@
-#include "randdatawithdemo.h"
-
-randDataWithDemo::randDataWithDemo()
-{
-    qDebug()<<"数据演示接口"<<endl;
-}
