@@ -1,9 +1,0 @@
-..\obj\myfun4_data.o: ..\HARDWARE\MyFun4\MyFun4_data.c
-..\obj\myfun4_data.o: ..\HARDWARE\MyFun4\MyFun4_data.h
-..\obj\myfun4_data.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
-..\obj\myfun4_data.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\myfun4_data.o: ..\HARDWARE\MyFun4\rtwtypes.h
-..\obj\myfun4_data.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\myfun4_data.o: ..\HARDWARE\MyFun4\MyFun4_types.h
-..\obj\myfun4_data.o: ..\HARDWARE\MyFun4\MyFun4.h
-..\obj\myfun4_data.o: ..\HARDWARE\MyFun4\rt_nonfinite.h

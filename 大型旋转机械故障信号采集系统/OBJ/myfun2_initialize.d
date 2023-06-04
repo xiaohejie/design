@@ -1,9 +1,0 @@
-..\obj\myfun2_initialize.o: ..\HARDWARE\MyFun2\MyFun2_initialize.c
-..\obj\myfun2_initialize.o: ..\HARDWARE\MyFun2\MyFun2_initialize.h
-..\obj\myfun2_initialize.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
-..\obj\myfun2_initialize.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\myfun2_initialize.o: ..\HARDWARE\MyFun2\rtwtypes.h
-..\obj\myfun2_initialize.o: ..\HARDWARE\MyFun2\MyFun2_types.h
-..\obj\myfun2_initialize.o: ..\HARDWARE\MyFun2\MyFun2.h
-..\obj\myfun2_initialize.o: ..\HARDWARE\MyFun2\MyFun2_data.h
-..\obj\myfun2_initialize.o: ..\HARDWARE\MyFun2\rt_nonfinite.h

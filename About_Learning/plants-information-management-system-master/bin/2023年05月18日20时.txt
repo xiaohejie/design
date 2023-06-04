@@ -1,0 +1,179 @@
+Warning:2023-05-18 20:43:46  *File:kernel\qsqldatabase.cpp  *Line:702  *Function:void __cdecl QSqlDatabasePrivate::init(const class QString &)  *Message:QSqlDatabase: QMYSQL driver not loaded  
+Warning:2023-05-18 20:43:46  *File:kernel\qsqldatabase.cpp  *Line:703  *Function:void __cdecl QSqlDatabasePrivate::init(const class QString &)  *Message:QSqlDatabase: available drivers: QSQLITE QODBC QODBC3 QPSQL QPSQL7  
+Debug:2023-05-18 20:43:48  *File:..\plants-information-management-system\selectwidget.cpp  *Line:62  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接失败  
+Warning:2023-05-18 20:43:48  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:43:49  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-18"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"30"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"31℃"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"19"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"19~31℃"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-18"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期四"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"多云"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"北风2级"  
+Debug:2023-05-18 20:43:59  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:66  
+Warning:2023-05-18 20:45:10  *File:kernel\qsqlquery.cpp  *Line:982  *Function:bool __cdecl QSqlQuery::prepare(const class QString &)  *Message:QSqlQuery::prepare: database not open  
+Debug:2023-05-18 20:45:12  *File:..\plants-information-management-system\uidemo18.cpp  *Line:146  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-18 20:45:15  *File:..\plants-information-management-system\uidemo18.cpp  *Line:154  *Function:void __cdecl UIDemo18::btn_Info_Clicked_slots(void)  *Message:档案记录页面 
+  
+Debug:2023-05-18 20:45:51  *File:..\plants-information-management-system\uidemo18.cpp  *Line:243  *Function:void __cdecl UIDemo18::on_btnReturn_clicked(void)  *Message: 返回主页面 
+  
+Debug:2023-05-18 20:45:53  *File:..\plants-information-management-system\uidemo18.cpp  *Line:164  *Function:void __cdecl UIDemo18::btn_Research_Clicked_slots(void)  *Message:时域分析页面 
+  
+Warning:2023-05-18 20:46:04  *File:kernel\qcoreapplication.cpp  *Line:984  *Function:void __cdecl QCoreApplication::setAttribute(enum Qt::ApplicationAttribute,bool)  *Message:Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created.  
+Debug:2023-05-18 20:46:07  *File:..\plants-information-management-system\uidemo18.cpp  *Line:194  *Function:void __cdecl UIDemo18::btn_Map_Clicked_slots(void)  *Message:频域分析页面 
+  
+Warning:2023-05-18 20:46:09  *File:kernel\qobject.cpp  *Line:3679  *Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  *Message:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_return_clicked()  
+Debug:2023-05-18 20:46:09  *File:..\plants-information-management-system\uidemo18.cpp  *Line:206  *Function:void __cdecl UIDemo18::btn_Analysis_Clicked_slots(void)  *Message:故障诊断页面 
+  
+Debug:2023-05-18 20:46:12  *File:..\plants-information-management-system\uidemo18.cpp  *Line:215  *Function:void __cdecl UIDemo18::btn_Settings_Clicked_slots(void)  *Message:系统设置页面 
+  
+Debug:2023-05-18 20:46:17  *File:..\plants-information-management-system\uidemo18.cpp  *Line:243  *Function:void __cdecl UIDemo18::on_btnReturn_clicked(void)  *Message: 返回主页面 
+  
+Debug:2023-05-18 20:46:30  *File:..\plants-information-management-system\uidemo18.cpp  *Line:279  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqldatabase.cpp  *Line:702  *Function:void __cdecl QSqlDatabasePrivate::init(const class QString &)  *Message:QSqlDatabase: QMYSQL driver not loaded  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqldatabase.cpp  *Line:703  *Function:void __cdecl QSqlDatabasePrivate::init(const class QString &)  *Message:QSqlDatabase: available drivers: QSQLITE QODBC QODBC3 QPSQL QPSQL7  
+Debug:2023-05-18 20:52:45  *File:..\plants-information-management-system\selectwidget.cpp  *Line:62  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接失败  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:52:45  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Debug:2023-05-18 20:52:52  *File:..\plants-information-management-system\main.cpp  *Line:105  *Function:int __cdecl main(int,char *[])  *Message:数据库连接加载失败 
+  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-18"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"30"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"31℃"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"19"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"19~31℃"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-18"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期四"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"多云"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"北风2级"  
+Debug:2023-05-18 20:52:53  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:66  
+Warning:2023-05-18 20:53:01  *File:kernel\qobject.cpp  *Line:2457  *Function:void __cdecl err_method_notfound(const class QObject *,const char *,const char *)  *Message:QObject::connect: No such signal QObject::dataChanged(QModelIndex,QModelIndex,QVector<int>) in itemviews\qdatawidgetmapper.cpp:363  
+Warning:2023-05-18 20:53:01  *File:kernel\qobject.cpp  *Line:2457  *Function:void __cdecl err_method_notfound(const class QObject *,const char *,const char *)  *Message:QObject::connect: No such signal QObject::dataChanged(QModelIndex,QModelIndex,QVector<int>) in itemviews\qdatawidgetmapper.cpp:363  
+Warning:2023-05-18 20:57:11  *File:kernel\qsqldatabase.cpp  *Line:702  *Function:void __cdecl QSqlDatabasePrivate::init(const class QString &)  *Message:QSqlDatabase: QMYSQL driver not loaded  
+Warning:2023-05-18 20:57:11  *File:kernel\qsqldatabase.cpp  *Line:703  *Function:void __cdecl QSqlDatabasePrivate::init(const class QString &)  *Message:QSqlDatabase: available drivers: QSQLITE QODBC QODBC3 QPSQL QPSQL7  
+Debug:2023-05-18 20:57:12  *File:..\plants-information-management-system\selectwidget.cpp  *Line:62  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接失败  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Warning:2023-05-18 20:57:12  *File:kernel\qsqlquery.cpp  *Line:394  *Function:bool __cdecl QSqlQuery::exec(const class QString &)  *Message:QSqlQuery::exec: database not open  
+Debug:2023-05-18 20:57:18  *File:..\plants-information-management-system\main.cpp  *Line:116  *Function:int __cdecl main(int,char *[])  *Message:数据库连接加载失败 
+  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-18"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"30"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"31℃"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"19"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"19~31℃"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-18"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期四"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"多云"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"北风2级"  
+Debug:2023-05-18 20:57:19  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:66  
+Warning:2023-05-18 20:57:23  *File:kernel\qobject.cpp  *Line:2457  *Function:void __cdecl err_method_notfound(const class QObject *,const char *,const char *)  *Message:QObject::connect: No such signal QObject::dataChanged(QModelIndex,QModelIndex,QVector<int>) in itemviews\qdatawidgetmapper.cpp:363  
+Warning:2023-05-18 20:57:23  *File:kernel\qobject.cpp  *Line:2457  *Function:void __cdecl err_method_notfound(const class QObject *,const char *,const char *)  *Message:QObject::connect: No such signal QObject::dataChanged(QModelIndex,QModelIndex,QVector<int>) in itemviews\qdatawidgetmapper.cpp:363  

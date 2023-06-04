@@ -1,0 +1,16 @@
+Debug:2023-05-24 19:53:49  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-24"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"24℃"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"17"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"17~24℃"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-24"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期三"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"多云"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"西风2级"  
+Debug:2023-05-24 19:54:02  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:51  
+Debug:2023-05-24 19:56:18  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Warning:2023-05-24 19:56:21  *File:qwindowswindow.cpp  *Line:1878  *Function:void __cdecl QWindowsWindow::setGeometry(const class QRect &)  *Message:QWindowsWindow::setGeometry: Unable to set geometry 1500x900+981+350 (frame: 1500x900+981+350) on QWidgetWindow/"UIDemo18Window" on "\\.\DISPLAY1". Resulting geometry: 1875x1125+981+350 (frame: 1875x1125+981+350) margins: 0, 0, 0, 0 minimum size: 1500x900 maximum size: 1500x900 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1500,900 maxtrack=1500,900)  

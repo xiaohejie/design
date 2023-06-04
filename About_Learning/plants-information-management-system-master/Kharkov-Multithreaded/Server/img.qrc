@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/lenin.jpg</file>
+        <file>img/stalin.jpg</file>
+        <file>img/_bkPage.jpg</file>
+        <file>img/loadingAnime.gif</file>
+    </qresource>
+</RCC>

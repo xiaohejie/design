@@ -1,9 +1,0 @@
-..\obj\fft1.o: ..\HARDWARE\MyFun3\fft1.c
-..\obj\fft1.o: ..\HARDWARE\MyFun3\fft1.h
-..\obj\fft1.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
-..\obj\fft1.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\fft1.o: ..\HARDWARE\MyFun3\rtwtypes.h
-..\obj\fft1.o: ..\HARDWARE\MyFun3\MyFun3_types.h
-..\obj\fft1.o: ..\HARDWARE\MyFun3\MyFun3.h
-..\obj\fft1.o: ..\HARDWARE\MyFun3\rt_nonfinite.h
-..\obj\fft1.o: D:\STM32\MDK5\ARM\ARMCC\Bin\..\include\string.h

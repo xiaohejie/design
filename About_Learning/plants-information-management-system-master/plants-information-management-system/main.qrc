@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/bg_calendar.png</file>
+        <file>康乃馨1.jfif</file>
+        <file>Lilium.jpg</file>
+        <file>narc2221.jpg</file>
+        <file>rose.jpg</file>
+        <file>tulip.jpg</file>
+        <file>image/_loginPage.jpg</file>
+        <file>image/_homePage.jpg</file>
+        <file>image/_displayLogo.png</file>
+    </qresource>
+</RCC>

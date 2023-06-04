@@ -1,0 +1,602 @@
+Debug:2023-05-23 20:07:19  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:07:28  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:07:29  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:07:47  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:07:52  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:08:21  *File:..\plants-information-management-system\uidemo18.cpp  *Line:156  *Function:void __cdecl UIDemo18::btn_Info_Clicked_slots(void)  *Message:档案记录页面 
+  
+Debug:2023-05-23 20:08:33  *File:..\plants-information-management-system\uidemo18.cpp  *Line:246  *Function:void __cdecl UIDemo18::on_btnReturn_clicked(void)  *Message: 返回主页面 
+  
+Debug:2023-05-23 20:08:35  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:09:50  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:09:57  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:09:58  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:10:06  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:10:08  *File:..\plants-information-management-system\uidemo18.cpp  *Line:156  *Function:void __cdecl UIDemo18::btn_Info_Clicked_slots(void)  *Message:档案记录页面 
+  
+Debug:2023-05-23 20:10:13  *File:..\plants-information-management-system\uidemo18.cpp  *Line:246  *Function:void __cdecl UIDemo18::on_btnReturn_clicked(void)  *Message: 返回主页面 
+  
+Debug:2023-05-23 20:10:14  *File:..\plants-information-management-system\uidemo18.cpp  *Line:166  *Function:void __cdecl UIDemo18::btn_Research_Clicked_slots(void)  *Message:报表查询页面 
+  
+Debug:2023-05-23 20:10:24  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:12:39  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:12:46  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:12:47  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:13:08  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:13:10  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:13:14  *File:..\plants-information-management-system\uidemo18.cpp  *Line:156  *Function:void __cdecl UIDemo18::btn_Info_Clicked_slots(void)  *Message:档案记录页面 
+  
+Debug:2023-05-23 20:13:22  *File:..\plants-information-management-system\uidemo18.cpp  *Line:246  *Function:void __cdecl UIDemo18::on_btnReturn_clicked(void)  *Message: 返回主页面 
+  
+Debug:2023-05-23 20:13:22  *File:..\plants-information-management-system\uidemo18.cpp  *Line:166  *Function:void __cdecl UIDemo18::btn_Research_Clicked_slots(void)  *Message:报表查询页面 
+  
+Warning:2023-05-23 20:13:28  *File:kernel\qcoreapplication.cpp  *Line:984  *Function:void __cdecl QCoreApplication::setAttribute(enum Qt::ApplicationAttribute,bool)  *Message:Attribute Qt::AA_EnableHighDpiScaling must be set before QCoreApplication is created.  
+Debug:2023-05-23 20:13:29  *File:..\plants-information-management-system\uidemo18.cpp  *Line:195  *Function:void __cdecl UIDemo18::btn_Map_Clicked_slots(void)  *Message:时频分析页面 
+  
+Warning:2023-05-23 20:13:33  *File:kernel\qobject.cpp  *Line:3679  *Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  *Message:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_return_clicked()  
+Debug:2023-05-23 20:13:33  *File:..\plants-information-management-system\uidemo18.cpp  *Line:209  *Function:void __cdecl UIDemo18::btn_Analysis_Clicked_slots(void)  *Message:故障诊断页面 
+  
+Debug:2023-05-23 20:13:36  *File:..\plants-information-management-system\uidemo18.cpp  *Line:218  *Function:void __cdecl UIDemo18::btn_Settings_Clicked_slots(void)  *Message:系统设置页面 
+  
+Debug:2023-05-23 20:13:44  *File:..\plants-information-management-system\uidemo18.cpp  *Line:246  *Function:void __cdecl UIDemo18::on_btnReturn_clicked(void)  *Message: 返回主页面 
+  
+Debug:2023-05-23 20:13:48  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:16:04  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:16:10  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:16:11  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:33:00  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Warning:2023-05-23 20:33:02  *File:qwindowswindow.cpp  *Line:1878  *Function:void __cdecl QWindowsWindow::setGeometry(const class QRect &)  *Message:QWindowsWindow::setGeometry: Unable to set geometry 1500x900+975+241 (frame: 1500x900+975+241) on QWidgetWindow/"UIDemo18Window" on "\\.\DISPLAY1". Resulting geometry: 1875x1125+975+241 (frame: 1875x1125+975+241) margins: 0, 0, 0, 0 minimum size: 1500x900 maximum size: 1500x900 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1500,900 maxtrack=1500,900)  
+Debug:2023-05-23 20:33:09  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:37:24  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:37:54  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:38:01  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:38:10  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:38:12  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:38:24  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:38:44  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:38:51  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:38:59  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:39:02  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:42:22  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:44:37  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:44:43  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:44:44  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:44:53  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:44:55  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:45:10  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1718.55.1100"  
+Debug:2023-05-23 20:45:10  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.11  
+Debug:2023-05-23 20:45:11  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1718.5  
+Debug:2023-05-23 20:45:11  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.11  
+Debug:2023-05-23 20:45:11  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1718.5  
+Debug:2023-05-23 20:45:11  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.11  
+Debug:2023-05-23 20:45:11  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1718.5  
+Debug:2023-05-23 20:45:12  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1625.8-4.8345"  
+Debug:2023-05-23 20:45:12  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8345  
+Debug:2023-05-23 20:45:12  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1625.8  
+Debug:2023-05-23 20:45:14  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1659.7-4.9351"  
+Debug:2023-05-23 20:45:14  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9351  
+Debug:2023-05-23 20:45:14  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1659.7  
+Debug:2023-05-23 20:45:16  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1746.75.1938"  
+Debug:2023-05-23 20:45:16  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1938  
+Debug:2023-05-23 20:45:16  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1746.7  
+Debug:2023-05-23 20:45:16  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1938  
+Debug:2023-05-23 20:45:16  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1746.7  
+Debug:2023-05-23 20:45:17  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1938  
+Debug:2023-05-23 20:45:17  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1746.7  
+Debug:2023-05-23 20:45:18  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1938  
+Debug:2023-05-23 20:45:18  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1746.7  
+Debug:2023-05-23 20:45:18  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1716.95.1052"  
+Debug:2023-05-23 20:45:18  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1052  
+Debug:2023-05-23 20:45:18  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.9  
+Debug:2023-05-23 20:45:19  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1052  
+Debug:2023-05-23 20:45:19  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.9  
+Debug:2023-05-23 20:45:20  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1686.3-5.0141"  
+Debug:2023-05-23 20:45:20  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0141  
+Debug:2023-05-23 20:45:20  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1686.3  
+Debug:2023-05-23 20:45:20  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0141  
+Debug:2023-05-23 20:45:20  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1686.3  
+Debug:2023-05-23 20:45:21  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0141  
+Debug:2023-05-23 20:45:21  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1686.3  
+Debug:2023-05-23 20:45:21  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1646.0-4.8944"  
+Debug:2023-05-23 20:45:21  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8944  
+Debug:2023-05-23 20:45:21  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646  
+Debug:2023-05-23 20:45:22  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8944  
+Debug:2023-05-23 20:45:22  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646  
+Debug:2023-05-23 20:45:23  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8944  
+Debug:2023-05-23 20:45:23  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646  
+Debug:2023-05-23 20:45:23  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1699.1-5.0525"  
+Debug:2023-05-23 20:45:23  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0525  
+Debug:2023-05-23 20:45:23  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1699.1  
+Debug:2023-05-23 20:45:24  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0525  
+Debug:2023-05-23 20:45:24  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1699.1  
+Debug:2023-05-23 20:45:25  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0525  
+Debug:2023-05-23 20:45:25  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1699.1  
+Debug:2023-05-23 20:45:25  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1719.35.1124"  
+Debug:2023-05-23 20:45:25  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1124  
+Debug:2023-05-23 20:45:25  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1719.3  
+Debug:2023-05-23 20:45:26  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1124  
+Debug:2023-05-23 20:45:26  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1719.3  
+Debug:2023-05-23 20:45:27  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1124  
+Debug:2023-05-23 20:45:27  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1719.3  
+Debug:2023-05-23 20:45:27  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1741.05.1770"  
+Debug:2023-05-23 20:45:27  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.177  
+Debug:2023-05-23 20:45:27  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1741  
+Debug:2023-05-23 20:45:28  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.177  
+Debug:2023-05-23 20:45:28  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1741  
+Debug:2023-05-23 20:45:29  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.177  
+Debug:2023-05-23 20:45:29  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1741  
+Debug:2023-05-23 20:45:29  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1716.1-5.1028"  
+Debug:2023-05-23 20:45:29  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:45:29  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:45:30  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:45:30  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:45:31  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1716.1-5.1028"  
+Debug:2023-05-23 20:45:31  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:45:31  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:45:31  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:45:31  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:45:32  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:45:32  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:45:33  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1678.2-4.9902"  
+Debug:2023-05-23 20:45:33  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9902  
+Debug:2023-05-23 20:45:33  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1678.2  
+Debug:2023-05-23 20:45:33  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9902  
+Debug:2023-05-23 20:45:33  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1678.2  
+Debug:2023-05-23 20:45:34  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9902  
+Debug:2023-05-23 20:45:34  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1678.2  
+Debug:2023-05-23 20:45:34  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1668.5-4.9614"  
+Debug:2023-05-23 20:45:34  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9614  
+Debug:2023-05-23 20:45:34  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1668.5  
+Debug:2023-05-23 20:45:35  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9614  
+Debug:2023-05-23 20:45:35  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1668.5  
+Debug:2023-05-23 20:45:36  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9614  
+Debug:2023-05-23 20:45:36  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1668.5  
+Debug:2023-05-23 20:45:36  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1733.05.1531"  
+Debug:2023-05-23 20:45:36  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1531  
+Debug:2023-05-23 20:45:36  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1733  
+Debug:2023-05-23 20:45:37  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1531  
+Debug:2023-05-23 20:45:37  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1733  
+Debug:2023-05-23 20:45:38  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1531  
+Debug:2023-05-23 20:45:38  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1733  
+Debug:2023-05-23 20:45:38  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1751.55.2082"  
+Debug:2023-05-23 20:45:38  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2082  
+Debug:2023-05-23 20:45:38  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1751.5  
+Debug:2023-05-23 20:45:39  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2082  
+Debug:2023-05-23 20:45:39  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1751.5  
+Debug:2023-05-23 20:45:40  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2082  
+Debug:2023-05-23 20:45:40  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1751.5  
+Debug:2023-05-23 20:45:40  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1677.4-4.9878"  
+Debug:2023-05-23 20:45:40  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9878  
+Debug:2023-05-23 20:45:40  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1677.4  
+Debug:2023-05-23 20:45:41  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9878  
+Debug:2023-05-23 20:45:41  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1677.4  
+Debug:2023-05-23 20:45:42  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9878  
+Debug:2023-05-23 20:45:42  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1677.4  
+Debug:2023-05-23 20:45:42  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1668.5-4.9614"  
+Debug:2023-05-23 20:45:42  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9614  
+Debug:2023-05-23 20:45:42  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1668.5  
+Debug:2023-05-23 20:45:43  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9614  
+Debug:2023-05-23 20:45:43  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1668.5  
+Debug:2023-05-23 20:45:44  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1736.25.1627"  
+Debug:2023-05-23 20:45:44  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1627  
+Debug:2023-05-23 20:45:44  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1736.2  
+Debug:2023-05-23 20:45:44  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1627  
+Debug:2023-05-23 20:45:44  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1736.2  
+Debug:2023-05-23 20:45:45  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1627  
+Debug:2023-05-23 20:45:45  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1736.2  
+Debug:2023-05-23 20:45:45  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1661.3-4.9399"  
+Debug:2023-05-23 20:45:45  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9399  
+Debug:2023-05-23 20:45:45  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1661.3  
+Debug:2023-05-23 20:45:46  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9399  
+Debug:2023-05-23 20:45:46  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1661.3  
+Debug:2023-05-23 20:45:47  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9399  
+Debug:2023-05-23 20:45:47  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1661.3  
+Debug:2023-05-23 20:45:48  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1739.45.1723"  
+Debug:2023-05-23 20:45:48  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1723  
+Debug:2023-05-23 20:45:48  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1739.4  
+Debug:2023-05-23 20:45:48  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1723  
+Debug:2023-05-23 20:45:48  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1739.4  
+Debug:2023-05-23 20:45:49  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1723  
+Debug:2023-05-23 20:45:49  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1739.4  
+Debug:2023-05-23 20:45:49  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1677.4-4.9878"  
+Debug:2023-05-23 20:45:49  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9878  
+Debug:2023-05-23 20:45:49  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1677.4  
+Debug:2023-05-23 20:45:50  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9878  
+Debug:2023-05-23 20:45:50  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1677.4  
+Debug:2023-05-23 20:45:51  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9878  
+Debug:2023-05-23 20:45:51  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1677.4  
+Debug:2023-05-23 20:45:51  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1654.0-4.9183"  
+Debug:2023-05-23 20:45:51  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9183  
+Debug:2023-05-23 20:45:51  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1654  
+Debug:2023-05-23 20:45:53  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1660.5-4.9375"  
+Debug:2023-05-23 20:45:53  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9375  
+Debug:2023-05-23 20:45:53  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1660.5  
+Debug:2023-05-23 20:45:55  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:46:19  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:46:26  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:46:35  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:46:38  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:46:56  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1662.1-4.9423"  
+Debug:2023-05-23 20:46:56  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9423  
+Debug:2023-05-23 20:46:56  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1662.1  
+Debug:2023-05-23 20:46:57  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9423  
+Debug:2023-05-23 20:46:57  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1662.1  
+Debug:2023-05-23 20:46:57  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9423  
+Debug:2023-05-23 20:46:57  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1662.1  
+Debug:2023-05-23 20:46:58  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1687.1-5.0165"  
+Debug:2023-05-23 20:46:58  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0165  
+Debug:2023-05-23 20:46:58  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1687.1  
+Debug:2023-05-23 20:46:59  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1658.9-4.9327"  
+Debug:2023-05-23 20:46:59  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9327  
+Debug:2023-05-23 20:46:59  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1658.9  
+Debug:2023-05-23 20:46:59  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9327  
+Debug:2023-05-23 20:46:59  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1658.9  
+Debug:2023-05-23 20:47:00  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9327  
+Debug:2023-05-23 20:47:00  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1658.9  
+Debug:2023-05-23 20:47:01  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9327  
+Debug:2023-05-23 20:47:01  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1658.9  
+Debug:2023-05-23 20:47:02  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1630.7-4.8488"  
+Debug:2023-05-23 20:47:02  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8488  
+Debug:2023-05-23 20:47:02  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1630.7  
+Debug:2023-05-23 20:47:02  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8488  
+Debug:2023-05-23 20:47:02  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1630.7  
+Debug:2023-05-23 20:47:03  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1643.6-4.8872"  
+Debug:2023-05-23 20:47:03  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8872  
+Debug:2023-05-23 20:47:03  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1643.6  
+Debug:2023-05-23 20:47:03  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8872  
+Debug:2023-05-23 20:47:03  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1643.6  
+Debug:2023-05-23 20:47:04  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8872  
+Debug:2023-05-23 20:47:04  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1643.6  
+Debug:2023-05-23 20:47:05  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1656.4-4.9255"  
+Debug:2023-05-23 20:47:05  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9255  
+Debug:2023-05-23 20:47:05  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1656.4  
+Debug:2023-05-23 20:47:05  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9255  
+Debug:2023-05-23 20:47:05  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1656.4  
+Debug:2023-05-23 20:47:06  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9255  
+Debug:2023-05-23 20:47:06  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1656.4  
+Debug:2023-05-23 20:47:07  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1638.7-4.8728"  
+Debug:2023-05-23 20:47:07  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8728  
+Debug:2023-05-23 20:47:07  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1638.7  
+Debug:2023-05-23 20:47:07  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8728  
+Debug:2023-05-23 20:47:07  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1638.7  
+Debug:2023-05-23 20:47:08  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8728  
+Debug:2023-05-23 20:47:08  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1638.7  
+Debug:2023-05-23 20:47:09  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1683.8-5.0070"  
+Debug:2023-05-23 20:47:09  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.007  
+Debug:2023-05-23 20:47:09  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1683.8  
+Debug:2023-05-23 20:47:09  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.007  
+Debug:2023-05-23 20:47:09  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1683.8  
+Debug:2023-05-23 20:47:10  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.007  
+Debug:2023-05-23 20:47:10  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1683.8  
+Debug:2023-05-23 20:47:11  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1654.8-4.9207"  
+Debug:2023-05-23 20:47:11  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9207  
+Debug:2023-05-23 20:47:11  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1654.8  
+Debug:2023-05-23 20:47:11  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9207  
+Debug:2023-05-23 20:47:11  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1654.8  
+Debug:2023-05-23 20:47:12  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9207  
+Debug:2023-05-23 20:47:12  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1654.8  
+Debug:2023-05-23 20:47:12  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1685.4-5.0117"  
+Debug:2023-05-23 20:47:12  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0117  
+Debug:2023-05-23 20:47:12  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1685.4  
+Debug:2023-05-23 20:47:13  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0117  
+Debug:2023-05-23 20:47:13  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1685.4  
+Debug:2023-05-23 20:47:14  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1655.6-4.9231"  
+Debug:2023-05-23 20:47:14  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9231  
+Debug:2023-05-23 20:47:14  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1655.6  
+Debug:2023-05-23 20:47:14  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9231  
+Debug:2023-05-23 20:47:14  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1655.6  
+Debug:2023-05-23 20:47:15  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9231  
+Debug:2023-05-23 20:47:15  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1655.6  
+Debug:2023-05-23 20:47:16  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1651.6-4.9111"  
+Debug:2023-05-23 20:47:16  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9111  
+Debug:2023-05-23 20:47:16  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1651.6  
+Debug:2023-05-23 20:47:16  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9111  
+Debug:2023-05-23 20:47:16  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1651.6  
+Debug:2023-05-23 20:47:17  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9111  
+Debug:2023-05-23 20:47:17  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1651.6  
+Debug:2023-05-23 20:47:18  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1701.6-5.0597"  
+Debug:2023-05-23 20:47:18  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0597  
+Debug:2023-05-23 20:47:18  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1701.6  
+Debug:2023-05-23 20:47:18  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0597  
+Debug:2023-05-23 20:47:18  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1701.6  
+Debug:2023-05-23 20:47:19  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0597  
+Debug:2023-05-23 20:47:19  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1701.6  
+Debug:2023-05-23 20:47:20  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1704.8-5.0692"  
+Debug:2023-05-23 20:47:20  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0692  
+Debug:2023-05-23 20:47:20  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1704.8  
+Debug:2023-05-23 20:47:22  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1716.1-5.1028"  
+Debug:2023-05-23 20:47:22  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:47:22  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:47:22  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:47:22  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:47:22  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:47:23  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:47:23  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:47:23  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.1028  
+Debug:2023-05-23 20:47:23  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1716.1  
+Debug:2023-05-23 20:47:24  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1654.0-4.9183"  
+Debug:2023-05-23 20:47:24  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9183  
+Debug:2023-05-23 20:47:24  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1654  
+Debug:2023-05-23 20:47:24  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9183  
+Debug:2023-05-23 20:47:24  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1654  
+Debug:2023-05-23 20:47:25  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1660.5-4.9375"  
+Debug:2023-05-23 20:47:25  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9375  
+Debug:2023-05-23 20:47:26  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1660.5  
+Debug:2023-05-23 20:47:27  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1729.85.1435"  
+Debug:2023-05-23 20:47:27  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1435  
+Debug:2023-05-23 20:47:27  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1729.8  
+Debug:2023-05-23 20:47:29  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1696.7-5.0453"  
+Debug:2023-05-23 20:47:29  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0453  
+Debug:2023-05-23 20:47:29  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1696.7  
+Debug:2023-05-23 20:47:31  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1637.1-4.8680"  
+Debug:2023-05-23 20:47:31  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.868  
+Debug:2023-05-23 20:47:31  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1637.1  
+Debug:2023-05-23 20:47:33  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1696.7-5.0453"  
+Debug:2023-05-23 20:47:33  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0453  
+Debug:2023-05-23 20:47:33  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1696.7  
+Debug:2023-05-23 20:47:35  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1646.8-4.8968"  
+Debug:2023-05-23 20:47:35  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8968  
+Debug:2023-05-23 20:47:35  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646.8  
+Debug:2023-05-23 20:47:36  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1683.8-5.0070"  
+Debug:2023-05-23 20:47:39  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1700.0-5.0549"  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0549  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1700  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0549  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1700  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1724.95.1291"  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.1291  
+Debug:2023-05-23 20:47:40  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1724.9  
+Debug:2023-05-23 20:47:42  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1753.15.2130"  
+Debug:2023-05-23 20:47:42  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.213  
+Debug:2023-05-23 20:47:42  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1753.1  
+Debug:2023-05-23 20:47:44  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1644.4-4.8896"  
+Debug:2023-05-23 20:47:44  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:47:56  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:48:03  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:48:13  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:48:15  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:48:28  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:48:48  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:48:55  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:49:06  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:49:07  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:49:21  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
+Debug:2023-05-23 20:57:34  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"21"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"23℃"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"15~23℃"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-23"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期二"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"阴"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东风2级"  
+Debug:2023-05-23 20:57:41  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:46  
+Debug:2023-05-23 20:57:50  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Debug:2023-05-23 20:57:53  *File:..\plants-information-management-system\uidemo18.cpp  *Line:148  *Function:void __cdecl UIDemo18::btn_Product_Clicked_slots(void)  *Message:信息采集页面 
+  
+Debug:2023-05-23 20:58:15  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1750.75.2058"  
+Debug:2023-05-23 20:58:15  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2058  
+Debug:2023-05-23 20:58:15  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1750.7  
+Debug:2023-05-23 20:58:15  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2058  
+Debug:2023-05-23 20:58:15  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1750.7  
+Debug:2023-05-23 20:58:16  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2058  
+Debug:2023-05-23 20:58:16  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1750.7  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1646.8-4.8968"  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8968  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646.8  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8968  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646.8  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8968  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646.8  
+Debug:2023-05-23 20:58:17  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8968  
+Debug:2023-05-23 20:58:18  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646.8  
+Debug:2023-05-23 20:58:19  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8968  
+Debug:2023-05-23 20:58:19  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1646.8  
+Debug:2023-05-23 20:58:19  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1703.2-5.0644"  
+Debug:2023-05-23 20:58:19  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0644  
+Debug:2023-05-23 20:58:19  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1703.2  
+Debug:2023-05-23 20:58:19  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0644  
+Debug:2023-05-23 20:58:20  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1703.2  
+Debug:2023-05-23 20:58:20  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1629.9-4.8464"  
+Debug:2023-05-23 20:58:20  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8464  
+Debug:2023-05-23 20:58:20  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1629.9  
+Debug:2023-05-23 20:58:21  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8464  
+Debug:2023-05-23 20:58:21  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1629.9  
+Debug:2023-05-23 20:58:21  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8464  
+Debug:2023-05-23 20:58:21  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1629.9  
+Debug:2023-05-23 20:58:22  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.8464  
+Debug:2023-05-23 20:58:22  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1629.9  
+Debug:2023-05-23 20:58:23  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1696.7-5.0453"  
+Debug:2023-05-23 20:58:23  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0453  
+Debug:2023-05-23 20:58:23  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1696.7  
+Debug:2023-05-23 20:58:24  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0453  
+Debug:2023-05-23 20:58:24  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1696.7  
+Debug:2023-05-23 20:58:24  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1672.6-4.9734"  
+Debug:2023-05-23 20:58:24  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9734  
+Debug:2023-05-23 20:58:24  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1672.6  
+Debug:2023-05-23 20:58:24  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9734  
+Debug:2023-05-23 20:58:24  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1672.6  
+Debug:2023-05-23 20:58:25  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9734  
+Debug:2023-05-23 20:58:25  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1672.6  
+Debug:2023-05-23 20:58:26  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1648.4-4.9015"  
+Debug:2023-05-23 20:58:26  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9015  
+Debug:2023-05-23 20:58:26  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1648.4  
+Debug:2023-05-23 20:58:26  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9015  
+Debug:2023-05-23 20:58:27  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1648.4  
+Debug:2023-05-23 20:58:27  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9015  
+Debug:2023-05-23 20:58:28  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1648.4  
+Debug:2023-05-23 20:58:28  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1657.3-4.9279"  
+Debug:2023-05-23 20:58:28  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9279  
+Debug:2023-05-23 20:58:28  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1657.3  
+Debug:2023-05-23 20:58:28  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9279  
+Debug:2023-05-23 20:58:29  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1657.3  
+Debug:2023-05-23 20:58:29  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9279  
+Debug:2023-05-23 20:58:30  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1657.3  
+Debug:2023-05-23 20:58:30  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1753.95.2154"  
+Debug:2023-05-23 20:58:30  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2154  
+Debug:2023-05-23 20:58:30  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1753.9  
+Debug:2023-05-23 20:58:31  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2154  
+Debug:2023-05-23 20:58:31  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1753.9  
+Debug:2023-05-23 20:58:32  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 5.2154  
+Debug:2023-05-23 20:58:32  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1753.9  
+Debug:2023-05-23 20:58:32  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1666.1-4.9542"  
+Debug:2023-05-23 20:58:32  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9542  
+Debug:2023-05-23 20:58:32  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1666.1  
+Debug:2023-05-23 20:58:32  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -4.9542  
+Debug:2023-05-23 20:58:33  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1666.1  
+Debug:2023-05-23 20:58:33  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1691.1-5.0285"  
+Debug:2023-05-23 20:58:33  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0285  
+Debug:2023-05-23 20:58:33  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1691.1  
+Debug:2023-05-23 20:58:34  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0285  
+Debug:2023-05-23 20:58:34  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1691.1  
+Debug:2023-05-23 20:58:35  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0285  
+Debug:2023-05-23 20:58:35  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1691.1  
+Debug:2023-05-23 20:58:35  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1689.5-5.0237"  
+Debug:2023-05-23 20:58:35  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0237  
+Debug:2023-05-23 20:58:35  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1689.5  
+Debug:2023-05-23 20:58:35  *File:..\plants-information-management-system\humidity.cpp  *Line:169  *Function:void __cdecl Humidity::drawNumericValue(class QPainter *)  *Message:加速度 -5.0237  
+Debug:2023-05-23 20:58:36  *File:..\plants-information-management-system\tempature.cpp  *Line:176  *Function:void __cdecl tempature::drawNumericValue(class QPainter *)  *Message:电压 1689.5  
+Debug:2023-05-23 20:58:37  *File:..\plants-information-management-system\displaydata.cpp  *Line:310  *Function:void __cdecl DisplayData::Read_Date(void)  *Message:"1638.7-4.8728"  
+Debug:2023-05-23 20:58:38  *File:..\plants-information-management-system\uidemo18.cpp  *Line:282  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
