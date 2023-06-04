@@ -1,0 +1,22 @@
+Debug:2023-05-20 17:17:43  *File:..\plants-information-management-system\selectwidget.cpp  *Line:59  *Function:__cdecl selectWidget::selectWidget(class QWidget *)  *Message:success,数据库连接成功  
+Debug:2023-05-20 17:19:05  *File:..\plants-information-management-system\main.cpp  *Line:106  *Function:int __cdecl main(int,char *[])  *Message:数据库连接成功 
+  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:131  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-20"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:138  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"武汉市"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:146  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"31"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:157  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"29℃"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:165  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"22"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:169  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"22~29℃"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:175  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"05-20"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:177  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"星期六"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:182  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"多云"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:190  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:"东南风3级"  
+Debug:2023-05-20 17:19:06  *File:..\plants-information-management-system\whetherwindow.cpp  *Line:212  *Function:void __cdecl WhetherWindow::read_data(class QNetworkReply *)  *Message:93  
+Debug:2023-05-20 17:20:49  *File:..\plants-information-management-system\loginwindow.cpp  *Line:53  *Function:void __cdecl LoginWindow::btn_Login_slots(void)  *Message:Login success  
+Warning:2023-05-20 17:20:52  *File:kernel\qobject.cpp  *Line:3679  *Function:void __cdecl QMetaObject::connectSlotsByName(class QObject *)  *Message:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_return_clicked()  
+Debug:2023-05-20 17:20:53  *File:..\plants-information-management-system\uidemo18.cpp  *Line:206  *Function:void __cdecl UIDemo18::btn_Analysis_Clicked_slots(void)  *Message:故障诊断页面 
+  
+Debug:2023-05-20 17:21:26  *File:..\plants-information-management-system\faultdiagnosis.cpp  *Line:59  *Function:auto __cdecl FaultDiagnosis::{ctor}::<lambda_f8c0c3086cc12247e0f8c19ba58df1b3>::operator ()(void) const  *Message:连接服务器  
+Debug:2023-05-20 17:22:24  *File:..\plants-information-management-system\faultdiagnosis.cpp  *Line:59  *Function:auto __cdecl FaultDiagnosis::{ctor}::<lambda_f8c0c3086cc12247e0f8c19ba58df1b3>::operator ()(void) const  *Message:连接服务器  
+Debug:2023-05-20 17:22:33  *File:..\plants-information-management-system\uidemo18.cpp  *Line:279  *Function:void __cdecl UIDemo18::on_btnQuit_clicked(void)  *Message:"用户 " ""  退出系统 
+  
